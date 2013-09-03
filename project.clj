@@ -17,6 +17,7 @@
                                                        org.apache.httpcomponents/httpclient]]
                                          ;; [org.apache.hadoop/hadoop-core "1.0.4"
                                          ;;   :exclusions [org.codehaus.jackson/jackson-mapper-asl]]
+                                         [org.jsoup/jsoup "1.7.2"]
                                          [org.apache.hadoop/hadoop-core "0.20.2"
                                           :exclusions [org.codehaus.jackson/jackson-mapper-asl]]
                                          ]}
